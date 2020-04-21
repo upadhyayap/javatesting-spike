@@ -36,3 +36,5 @@ build/test-results/test/binary/output.bin.idx
 build/test-results/test/binary/results.bin
 build/test-results/test/TEST-ct.TestThroughTestNg.xml
 build/tmp/jar/MANIFEST.MF
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
