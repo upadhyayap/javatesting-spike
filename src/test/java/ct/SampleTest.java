@@ -11,7 +11,7 @@ public class SampleTest {
         ClassUnderTest tester = new ClassUnderTest();
 
         // assert statements
-        Assert.assertEquals(10, tester.multiply(5,2) );
+        Assert.assertEquals(12, tester.multiply(5,2) );
         Assert.assertEquals(true, tester.isEven());
     }
 
